@@ -15,6 +15,6 @@ public class CustomArgsProvider implements ArgumentsProvider {
         return Stream.of(
                 Arguments.of("FL", 7, 10),
                 Arguments.of("OH", 11, 42),
-                Arguments.of("MI", 44, 77));
+                Arguments.of("MI", 44, 55));
     }
 }
